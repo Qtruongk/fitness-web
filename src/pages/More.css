@@ -1,0 +1,31 @@
+.container {
+    margin-top: 20px;
+    font-family: "Montserrat";
+}
+  
+.title p{
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+}
+  
+.content p{
+    margin-top: 20px;
+    font-family: "Montserrat";
+    color: #000;
+    text-align: justify;
+}
+  
+.img-BMI {
+    text-align: center;
+    margin-bottom: 20px;
+}
+  
+.bmi-image {
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+  
